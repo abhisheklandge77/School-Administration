@@ -1,0 +1,17 @@
+.headerSection {
+  padding: 10px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #008b8b;
+  color: #ffffff;
+  align-items: center;
+
+  .header {
+    margin: 0;
+  }
+
+  .userProfile {
+    display: flex;
+    align-items: center;
+  }
+}

@@ -1,0 +1,47 @@
+.cardContainer {
+  width: 365px;
+  height: 200px;
+  margin: 1rem;
+  border-bottom: 10px solid #333333;
+  border-radius: 8px;
+  background-color: #f8f8f8;
+
+  .cardHeader {
+    padding: 1rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #fff;
+    border-radius: 8px 8px 0 0;
+    background-color: #008b8b;
+  }
+
+  .cardInfoWrapper {
+    display: flex;
+    min-height: 150px;
+
+    .cardInfo {
+      width: 65%;
+      padding: 1.3rem 0 1rem 1rem;
+
+      .addressField {
+        font-style: normal;
+      }
+
+      .field {
+        display: flex;
+        align-items: center;
+        margin-bottom: 0.5rem;
+
+        .cardLabel {
+          font-weight: 600;
+          margin-right: 0.5rem;
+        }
+      }
+    }
+
+    .cardImage {
+      width: 35%;
+      padding: 0.5rem 0.9rem 0.5rem 0;
+    }
+  }
+}

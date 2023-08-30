@@ -1,0 +1,64 @@
+.bodySection {
+  padding: 20px 15px;
+
+  .globalSearch {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    .searchBar {
+      width: 100%;
+    }
+  }
+
+  .sectionHeading {
+    margin: 0;
+  }
+  .filterSearch {
+    border: 1px solid #000000;
+    width: 45px;
+    align-items: center;
+    display: flex;
+    border-radius: 5px;
+    justify-content: center;
+    margin-left: 10px;
+    height: 45px;
+    cursor: pointer;
+  }
+
+  .searchBoxes {
+    row-gap: 10px;
+    display: grid;
+    max-width: 800px;
+    margin-top: 30px;
+
+    .searchButton {
+      width: 100%;
+      padding-top: 10px;
+      margin: 0 auto;
+
+      Button {
+        width: 100%;
+      }
+    }
+  }
+
+  .cardDetailsContainer {
+    margin: 2rem;
+  }
+
+  .applyBtn {
+    background-color: #1a1a1a;
+    font-weight: bold;
+    width: 100%;
+
+    &:hover {
+      background-color: #333333;
+    }
+  }
+}
+.searchOption {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+}

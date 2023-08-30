@@ -1,0 +1,347 @@
+{
+    "schools": [
+        {
+            "classes": [
+                {
+                    "name": "Math 101",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "John",
+                            "lastName": "Doe"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Jane",
+                            "lastName": "Doe"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Alice",
+                            "lastName": "Brown"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Bob",
+                            "lastName": "White"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Charlie",
+                            "lastName": "Green"
+                        }
+                    ],
+                    "teacher": "Mr. Smith"
+                },
+                {
+                    "name": "History 202",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Eve",
+                            "lastName": "Black"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Frank",
+                            "lastName": "Blue"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Grace",
+                            "lastName": "Yellow"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Hank",
+                            "lastName": "Pink"
+                        }
+                    ],
+                    "teacher": "Mrs. Johnson"
+                },
+                {
+                    "name": "Science 303",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Ivy",
+                            "lastName": "Violet"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Jack",
+                            "lastName": "Orange"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Kathy",
+                            "lastName": "Red"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Liam",
+                            "lastName": "Purple"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Mia",
+                            "lastName": "Grey"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Noah",
+                            "lastName": "Cyan"
+                        }
+                    ],
+                    "teacher": "Mr. Thompson"
+                }
+            ],
+            "location": "123 Forest Rd",
+            "schoolName": "Pine Tree High"
+        },
+        {
+            "classes": [
+                {
+                    "name": "English 101",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Oliver",
+                            "lastName": "Twist"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Penny",
+                            "lastName": "Lane"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Quincy",
+                            "lastName": "Jones"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Rachel",
+                            "lastName": "Green"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Steve",
+                            "lastName": "Jobs"
+                        }
+                    ],
+                    "teacher": "Ms. Adams"
+                },
+                {
+                    "name": "Geography 202",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Tina",
+                            "lastName": "Turner"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Ulysses",
+                            "lastName": "Grant"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Vera",
+                            "lastName": "Wang"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Walter",
+                            "lastName": "White"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Xena",
+                            "lastName": "Warrior"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Yves",
+                            "lastName": "Saint"
+                        }
+                    ],
+                    "teacher": "Mr. Brooks"
+                },
+                {
+                    "name": "Art 303",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Zane",
+                            "lastName": "Grey"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Amy",
+                            "lastName": "Adams"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Brian",
+                            "lastName": "Cox"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Cara",
+                            "lastName": "Delevingne"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "David",
+                            "lastName": "Bowie"
+                        }
+                    ],
+                    "teacher": "Mrs. Picasso"
+                }
+            ],
+            "location": "456 Mountain St",
+            "schoolName": "River Valley School"
+        },
+        {
+            "classes": [
+                {
+                    "name": "Physics 101",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Edward",
+                            "lastName": "Norton"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Fiona",
+                            "lastName": "Apple"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "George",
+                            "lastName": "Clooney"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Holly",
+                            "lastName": "Golightly"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Ian",
+                            "lastName": "McKellen"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Julia",
+                            "lastName": "Roberts"
+                        }
+                    ],
+                    "teacher": "Dr. Einstein"
+                },
+                {
+                    "name": "Biology 202",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Kevin",
+                            "lastName": "Spacey"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Lana",
+                            "lastName": "Del Rey"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Morgan",
+                            "lastName": "Freeman"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Natalie",
+                            "lastName": "Portman"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Oscar",
+                            "lastName": "Wilde"
+                        }
+                    ],
+                    "teacher": "Dr. Goodall"
+                },
+                {
+                    "name": "Chemistry 303",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Paul",
+                            "lastName": "McCartney"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Queen",
+                            "lastName": "Latifah"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Robert",
+                            "lastName": "Downey"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Scarlett",
+                            "lastName": "Johansson"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Tom",
+                            "lastName": "Hanks"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Uma",
+                            "lastName": "Thurman"
+                        }
+                    ],
+                    "teacher": "Mr. Curie"
+                },
+                {
+                    "name": "Drama 404",
+                    "students": [
+                        {
+                            "age": 16,
+                            "firstName": "Vincent",
+                            "lastName": "Van Gogh"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Whitney",
+                            "lastName": "Houston"
+                        },
+                        {
+                            "age": 17,
+                            "firstName": "Xander",
+                            "lastName": "Harris"
+                        },
+                        {
+                            "age": 16,
+                            "firstName": "Yoko",
+                            "lastName": "Ono"
+                        },
+                        {
+                            "age": 15,
+                            "firstName": "Zachary",
+                            "lastName": "Quinto"
+                        }
+                    ],
+                    "teacher": "Ms. Streep"
+                }
+            ],
+            "location": "789 Beach Blvd",
+            "schoolName": "Sunnydale Academy"
+        }
+    ]
+}
